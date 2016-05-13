@@ -82,11 +82,11 @@ body {
   text-align: center;
 }
 #scircle {
-  width: 0;
-  height: 0;
-  -webkit-border-radius: 500px;
-  -moz-border-radius: 500px;
-  border-radius: 500px;
+  width: 100px;
+  height: 100px;
+  -webkit-border-radius: 300px;
+  -moz-border-radius: 300px;
+  border-radius: 300px;
   background: white;
   color: #000;
   top: 100px;
