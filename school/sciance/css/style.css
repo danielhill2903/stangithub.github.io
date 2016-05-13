@@ -82,8 +82,8 @@ body {
   text-align: center;
 }
 #scircle {
-  width: 200px;
-  height: 200px;
+  width: 0;
+  height: 0;
   -webkit-border-radius: 500px;
   -moz-border-radius: 500px;
   border-radius: 500px;
