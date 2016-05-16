@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="375"
-     inkscape:cy="520"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="724.34481"
+     inkscape:cy="167.08858"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,11 +55,11 @@
      id="layer1"
      transform="translate(0,-509.06266)">
     <ellipse
-       style="fill:#217844;fill-opacity:1;stroke:none"
-       id="path3338"
-       cx="272.85709"
-       cy="780.93329"
-       rx="270"
-       ry="271.42856" />
+       style="fill:#37c871;fill-opacity:1;stroke:none"
+       id="path3365"
+       cx="272.74112"
+       cy="782.65112"
+       rx="264.65997"
+       ry="265.6701" />
   </g>
 </svg>
