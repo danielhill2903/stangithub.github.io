@@ -140,6 +140,7 @@ body {
 h1 {
   text-transform: uppercase;
   font-size: 50px;
+  color: #fff;
   font-weight: 700;
   letter-spacing: 0.015em;
 }
@@ -148,15 +149,18 @@ h11 {
   font-size: 60px;
   font-weight: 700;
   letter-spacing: 0.015em;
+  color: #fff;
 }
 
 p {
   margin: 0 0 30px 0;
   font-size: 24px;
+  color: #fff;
 }
 ps {
   margin: 0 0 30px 0;
   font-size: 14px;
+  color: #fff;
 }
 .btn {
   display: inline-block;
