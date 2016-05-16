@@ -63,7 +63,7 @@ html, body {
 body {
   background: #fff;
   font-family: 'Montserrat', sans-serif;
-  color: #fff;
+  color: #000;
   line-height: 1.3;
   -webkit-font-smoothing: antialiased;
 }
@@ -75,7 +75,7 @@ body {
   -moz-border-radius: 550px;
   border-radius: 550px;
   background: white;
-  color: #000000;
+  color: #008a8a;
   top: 100px;
   margin-left: auto;
   margin-right: auto;
