@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="1.svg">
+   sodipodi:docname="2.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="724.34481"
-     inkscape:cy="167.08858"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="198.42702"
+     inkscape:cy="160.23672"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,12 +54,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-509.06266)">
-    <ellipse
-       style="fill:#37c871;fill-opacity:1;stroke:none"
-       id="path3365"
-       cx="272.74112"
-       cy="782.65112"
-       rx="264.65997"
-       ry="265.6701" />
+    <path
+       style="fill:#56c6d8;fill-opacity:0;stroke:none"
+       d="M 234.35694,535.583 C 183.34266,528.15412 130.93323,502.48063 91.98323,465.83926 30.060382,407.5867 -0.81596688,318.3655 12.024878,234.78926 34.937893,85.657041 174.92081,-14.252264 321.89383,13.628042 c 91.96498,17.445457 169.80145,85.059296 199.9436,173.684048 10.91654,32.09709 13.50923,48.87134 13.42747,86.87311 -0.0548,25.44138 -1.03201,38.79709 -3.76967,51.51778 -23.40378,108.74695 -108.0888,190.66913 -216.12636,209.07526 -19.36407,3.29899 -61.04087,3.71301 -81.01193,0.80476 z"
+       id="path4186"
+       inkscape:connector-curvature="0"
+       transform="translate(-6.1035156e-5,509.06266)" />
+    <circle
+       style="fill:#56c6d8;fill-opacity:1;stroke:none"
+       id="path4254"
+       cx="271.73099"
+       cy="780.6308"
+       r="269.71072" />
   </g>
 </svg>
