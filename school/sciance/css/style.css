@@ -48,7 +48,6 @@ table {
 html, body {
   width: 100%;
   height: 100%;
-  overflow: hidden;
 }
 body {
   background: #fff;
@@ -189,3 +188,63 @@ li-main {
     right: 0;
     height: 50px;
 }
+
+ @media screen and (max-width: 411px){
+  ps {
+  margin: 0 0 30px 0;
+  font-size: 14px;
+  color: #fff;
+  }
+  p {
+  margin: 0 0 30px 0;
+  font-size: 14px;
+  color: #fff;
+  }
+  h1 {
+  text-transform: uppercase;
+  font-size: 30px;
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: 0.015em;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+  }
+  li-main {
+    float: center;
+    display: block;
+  }
+ }
+ 
+  @media screen and (max-width: 800px){
+  ps {
+  margin: 0 0 30px 0;
+  font-size: 14px;
+  color: #fff;
+  }
+  p {
+  margin: 0 0 30px 0;
+  font-size: 14px;
+  color: #fff;
+  }
+  h1 {
+  text-transform: uppercase;
+  font-size: 40px;
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: 0.015em;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+  }
+    li-main {
+    float: center;
+    display: block;
+  }
+ }
