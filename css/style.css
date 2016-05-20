@@ -171,7 +171,7 @@ ps {
   }
  }
  
-  @media screen and (max-width: 600px){
+  @media screen and (max-width: 800px){
   ps {
   margin: 0 0 30px 0;
   font-size: 14px;
