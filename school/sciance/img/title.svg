@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="16.709599"
+     inkscape:cx="175.27488"
      inkscape:cy="281.45503"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -85,15 +85,15 @@
            style="-inkscape-font-specification:Montserrat;font-family:Montserrat;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
          id="flowPara4142" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="64.649712"
-       y="796.79321"
-       id="text4144"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="58.938221"
+       y="806.35229"
+       id="text4202"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4146"
-         x="50"
-         y="50"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.5px;font-family:Montserrat;-inkscape-font-specification:Montserrat">PLANETS</tspan></text>
+         id="tspan4204"
+         x="58.938221"
+         y="806.35229"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;fill-opacity:1">PLANETS</tspan></text>
   </g>
 </svg>
