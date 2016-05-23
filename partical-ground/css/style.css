@@ -121,45 +121,10 @@ p {
   color: #005544;
   border-color: #005544;
 }
-
-@media only screen and (max-width: 1000px) {
-  h1 {
-    font-size: 70px;
-  }
-}
-
-@media only screen and (max-width: 800px) {
-  h1 {
-    font-size: 48px;
-  }
-  h1::after {
-    height: 8px;
-  }
-}
-
-@media only screen and (max-width: 568px) {
-  #intro {
-    padding: 0 10px;
-  }
-  h1 {
-    font-size: 30px;
-  }
-  h1::after {
-    height: 6px;
-  }
-  p {
-    font-size: 18px;
-  }
-  .btn {
-    font-size: 16px;
-  }
-}
-
-@media only screen and (max-width: 320px) {
-  h1 {
-    font-size: 28px;
-  }
-  h1::after {
-    height: 4px;
-  }
+.actions-bar {
+    position: fixed;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+    height: 50px;
 }
