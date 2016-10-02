@@ -64,6 +64,14 @@ body {
   width: 100%;
   text-align: center;
 }
+#intro1 {
+  position: absolute;
+  left: 0;
+  top: 10%;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+}
 h1 {
   text-transform: uppercase;
   font-size: 60px;
