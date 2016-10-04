@@ -1,33 +1,38 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-      #map {
-        height: 400px;
-        width: 100%;
-       }
-    </style>
+    <meta charset="UTF-8" />
+    <title>Stans GitHub Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css" />
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+  </head>
   </head>
   <body>
-    <h3>My Google Maps Demo</h3>
-    <div id="map"></div>
-    <script>
+    <div
+    <div id="intro1">
+      <h1>22nd - 23rd Of October</h1>
+      <h1>Meet At 1 At The Location Below</h1>
+      <p>Please Bring; A Resnable Amount Of Wood, Sleeping Bag, Warm Clothing And Battery Bank</p>
+      <div id="map"></div>
+      <script>
 
-      function initMap() {
-        var uluru = {lat: 51.009462, lng: -2.270033};
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 4,
-          center: uluru
-        });
-        var marker = new google.maps.Marker({
-          position: uluru,
-          map: map
-        });
-      }
+        function initMap() {
+          var uluru = {lat: 51.009462, lng: -2.270033};
+          var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 4,
+            center: uluru
+          });
+          var marker = new google.maps.Marker({
+            position: uluru,
+            map: map
+          });
+        }
 
-    </script>
-    <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKrp2vJl_8hF17oGVEF7WeI1PlPszpo_Y&callback=initMap">
-    </script>
+      </script>
+      <script async defer
+          src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKrp2vJl_8hF17oGVEF7WeI1PlPszpo_Y&callback=initMap">
+      </script>
+     </div>
   </body>
 </html>
